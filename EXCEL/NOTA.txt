@@ -1,0 +1,11 @@
+Excel puede funcionar como una base de datos básica al permitir 
+almacenar, organizar y consultar información en forma de tablas.
+Aprendí que cada hoja de cálculo puede contener filas que representan 
+registros y columnas que definen atributos, similar a una tabla en
+una base de datos relacional. Aunque no tiene las capacidades
+avanzadas de sistemas como SQL, Excel permite aplicar filtros, 
+ordenar datos, realizar búsquedas, establecer validaciones y 
+usar fórmulas para analizar información. También se pueden 
+vincular hojas, importar datos externos y automatizar tareas 
+con macros, lo que lo convierte en una herramienta útil para 
+gestionar datos en contextos simples o individuales.
