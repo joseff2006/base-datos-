@@ -1,0 +1,11 @@
+Las bases de datos no relacionales, también conocidas como NoSQL, 
+son sistemas diseñados para almacenar y gestionar grandes volúmenes
+de datos que no siguen un esquema tabular tradicional. Aprendí que 
+estas bases de datos permiten estructuras flexibles como documentos, 
+pares clave-valor, grafos o columnas distribuidas, lo que facilita el
+manejo de datos semiestructurados o no estructurados. Son útiles en 
+aplicaciones que requieren escalabilidad horizontal, alta disponibilidad 
+y velocidad de respuesta, como redes sociales, análisis en tiempo real o
+sistemas distribuidos. A diferencia de las bases relacionales, no 
+dependen de relaciones estrictas entre tablas ni de esquemas fijos,
+lo que permite adaptarse mejor a entornos dinámicos.
