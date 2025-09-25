@@ -1,0 +1,11 @@
+Las bases de datos relacionales organizan la información en 
+tablas compuestas por filas y columnas, donde cada fila 
+representa un registro y cada columna un atributo. Aprendí 
+que este modelo se basa en relaciones entre tablas mediante
+claves primarias y claves foráneas, lo que permite vincular 
+datos de forma estructurada y consistente. Se utiliza el 
+lenguaje SQL para realizar operaciones como consultas, 
+inserciones, actualizaciones y eliminaciones. Este enfoque 
+garantiza integridad, normalización y facilidad para realizar
+análisis complejos, siendo ampliamente usado en sistemas 
+empresariales, financieros y administrativos.
