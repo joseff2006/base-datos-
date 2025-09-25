@@ -1,0 +1,10 @@
+Aprendí que las bases de datos son sistemas organizados para almacenar,
+gestionar y recuperar información de manera estructurada. Permiten 
+representar datos en tablas compuestas por filas y columnas, facilitando
+operaciones como búsqueda, filtrado, actualización y análisis. Existen
+modelos relacionales, que usan claves y relaciones entre tablas, y
+modelos no relacionales, que ofrecen mayor flexibilidad para datos
+no estructurados. También comprendí la importancia de los sistemas 
+de gestión de bases de datos (DBMS), el uso de lenguajes como SQL,
+y conceptos clave como integridad, normalización y eficiencia en el
+manejo de grandes volúmenes de información.
