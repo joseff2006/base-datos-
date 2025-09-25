@@ -1,0 +1,13 @@
+Los fundamentos de bases de datos se centran en cómo
+se organiza, almacena y gestiona la información de manera
+estructurada. Aprendí que una base de datos permite guardar
+datos en tablas compuestas por filas (registros) y columnas
+(atributos), facilitando el acceso, modificación y análisis
+eficiente. Los sistemas de gestión de bases de datos (DBMS) 
+como MySQL, SQL Server o PostgreSQL controlan cómo se 
+interactúa con los datos mediante lenguajes como SQL. 
+También se estudian conceptos clave como claves primarias,
+relaciones entre tablas, integridad de datos y normalización, 
+que aseguran consistencia y evitan redundancia. Estos 
+principios son esenciales para diseñar sistemas confiables 
+y escalables.
